@@ -9,7 +9,7 @@ import { header, sidebar } from '../layouts';
 
 class Dashboard {
 
-  loadDashboard(){
+  loadDashboard() {
 
     // Invoke methods
     users.loadUsers();

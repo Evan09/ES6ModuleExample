@@ -9,7 +9,7 @@ class Header {
     // Invoke the method
     userProfile.loadUserProfile();
 
-    console.log('Header component is loaded...')
+    console.log('Header component is loaded...');
 
   }
 
